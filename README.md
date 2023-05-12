@@ -10,3 +10,5 @@ In this project there are three options available
 After that brand new cars will show in homepage.
 Followed by 3 car models with description(lorem has been used in description) wiht a option of buying.
 At last a link to get back at the top of the page.
+
+To visit the website click on : https://github.com/Jagss24/CARMANIA.git 
